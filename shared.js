@@ -1,3 +1,3 @@
 function testFunc() {
-    console.log("testfasfsafsafsad");
+    alert("testfasfsafsafsad");
 }
